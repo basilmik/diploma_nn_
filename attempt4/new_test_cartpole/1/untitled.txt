@@ -1,0 +1,8 @@
+learning_rate_a = 0.001         # learning rate (alpha)
+    discount_factor_g = 0.95         # discount rate (gamma)
+    network_sync_rate = 25000          # number of steps the agent takes before syncing the policy and target network
+    replay_memory_size = 100000       # size of replay memory
+    mini_batch_size = 64           
+no descritisation
+
+size 24 hidden
