@@ -1,0 +1,30 @@
+2024-05-26_16-01-45
+MountainCar-v0
+0.9
+33
+20
+100000
+50000
+lr: 0.001 
+in:2 
+h:10 
+out:3 
+a1:ReLU 
+a2:Linear 
+
+if len(memory)>self.mini_batch_size and goal_reached:
+                
+                #print(f'OPTIMIZE Episode {i} Epsilon {epsilon} rewards {rewards}') # print(rewards)
+
+                for i in range(2):
+                    mini_batch = memory.sample(self.mini_batch_size)
+                    self.optimize(mini_batch, policy_dqn, target_dqn)
+
+                # Decay epsilon
+                epsilon = epsilon = max(epsilon - 1/episodes, 0.01) # max(epsilon*0.99996, 0.05)#
+                epsilon_history.append(epsilon)
+
+                # Copy policy network to target network after a certain number of steps
+                if step_count > self.network_sync_rate:
+                    target_dqn = policy_dqn.deep_copy()
+                    step_count = 0

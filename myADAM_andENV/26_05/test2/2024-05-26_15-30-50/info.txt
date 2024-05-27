@@ -1,0 +1,15 @@
+2024-05-26_15-30-50
+MountainCar-v0
+0.9
+32
+20
+100000
+50000
+reset seed = 42
+lr: 0.01 
+in:2 
+h:10 
+out:3 
+a1:ReLU 
+a2:Linear 
+
