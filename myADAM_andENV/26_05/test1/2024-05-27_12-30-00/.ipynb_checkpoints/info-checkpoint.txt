@@ -1,0 +1,16 @@
+2024-05-27_12-30-00
+MountainCar-v0
+0.9
+32
+20
+100000
+50000
+SEED 42 and +10, NO DESCRET
+lr: 0.001 
+in:2 
+h:8x2 (--) 
+out:3 
+a1:ReLU 
+a2:Linear 
+
+x4 sample and optimize

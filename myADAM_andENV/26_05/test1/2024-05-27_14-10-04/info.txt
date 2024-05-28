@@ -1,0 +1,17 @@
+2024-05-27_14-10-04
+MountainCar-v0
+0.9
+32
+20
+100000
+50000
+lr: 0.01 
+in:2 
+h:8x2 (--) 
+out:3 
+a1:ReLU 
+a2:Linear 
+
+for i in range(4):
+                mini_batch = memory.sample(self.mini_batch_size)
+                self.optimize(mini_batch, policy_dqn, target_dqn)
