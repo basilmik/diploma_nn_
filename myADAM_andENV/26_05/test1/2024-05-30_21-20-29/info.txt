@@ -1,0 +1,38 @@
+2024-05-30_21-20-29
+MountainCar-v0
+0.9
+64
+50
+100000
+50000
+lr: 0.0001 
+in:2 
+h:16x2 (--) 
+out:3 
+a1:ReLU 
+a2:Linear 
+
+Episode 1000 Epsilon 1
+Episode 2000 Epsilon 1
+Episode 3000 Epsilon 1
+Episode 4000 Epsilon 1
+Episode 5000 Epsilon 1
+Episode 6000 Epsilon 1
+Episode 7000 Epsilon 1
+Episode 8000 Epsilon 1
+Episode 9000 Epsilon 1
+Episode 10000 Epsilon 1
+Episode 11000 Epsilon 0.9857599999999858
+Episode 12000 Epsilon 0.9457599999999458
+Episode 13000 Epsilon 0.9057599999999058
+Episode 14000 Epsilon 0.8657599999998657
+Episode 15000 Epsilon 0.8257599999998257
+Episode 16000 Epsilon 0.7857599999997857
+Episode 17000 Epsilon 0.7457599999997457
+Episode 18000 Epsilon 0.7057599999997057
+Episode 19000 Epsilon 0.6657599999996657
+Episode 20000 Epsilon 0.6257599999996257
+Episode 21000 Epsilon 0.5857599999995857
+Episode 22000 Epsilon 0.5457599999995457
+Episode 23000 Epsilon 0.5057599999995057
+Episode 24000 Epsilon 0.4657599999995133

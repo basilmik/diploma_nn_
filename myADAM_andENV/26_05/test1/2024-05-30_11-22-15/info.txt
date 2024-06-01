@@ -1,0 +1,45 @@
+2024-05-30_11-22-15
+MountainCar-v0
+0.9
+64
+50
+100000
+50000
+lr: 0.001 
+in:2 
+h:16x2 (--) 
+out:3 
+a1:ReLU 
+a2:Linear 
+
+Episode 1000 Epsilon 0.9938399999999938
+Episode 2000 Epsilon 0.9538399999999538
+Episode 3000 Epsilon 0.9138399999999138
+Episode 4000 Epsilon 0.8738399999998738
+Episode 5000 Epsilon 0.8338399999998338
+Episode 6000 Epsilon 0.7938399999997938
+Episode 7000 Epsilon 0.7538399999997538
+Episode 8000 Epsilon 0.7138399999997138
+Episode 9000 Epsilon 0.6738399999996738
+Episode 10000 Epsilon 0.6338399999996338
+Episode 11000 Epsilon 0.5938399999995938
+Episode 12000 Epsilon 0.5538399999995538
+Episode 13000 Epsilon 0.5138399999995138
+Episode 14000 Epsilon 0.47383999999951015
+Episode 15000 Epsilon 0.43383999999952566
+Episode 16000 Epsilon 0.39383999999954117
+Episode 17000 Epsilon 0.3538399999995567
+Best rewards so far: -179.0
+Best rewards so far: -173.0
+Best rewards so far: -169.0
+Episode 18000 Epsilon 0.3138399999995722
+Best rewards so far: -141.0
+Best rewards so far: -137.0
+Episode 19000 Epsilon 0.2738399999995877
+Episode 20000 Epsilon 0.23383999999959196
+Best rewards so far: -126.0
+Best rewards so far: -124.0
+Episode 21000 Epsilon 0.1938399999995797
+Episode 22000 Epsilon 0.15383999999956746
+Episode 23000 Epsilon 0.1138399999995591
+Episode 24000 Epsilon 0.07383999999956073

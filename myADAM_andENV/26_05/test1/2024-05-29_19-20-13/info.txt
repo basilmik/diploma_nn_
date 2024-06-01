@@ -1,0 +1,53 @@
+2024-05-29_19-20-13
+MountainCar-v0
+0.9
+64
+50
+100000
+50000
+lr: 0.0001 
+in:2 
+h:10x2 (--) 
+out:3 
+a1:ReLU 
+a2:Linear 
+
+Episode 1000 Epsilon 1
+Episode 2000 Epsilon 0.9903199999999903
+Episode 3000 Epsilon 0.9503199999999503
+Episode 4000 Epsilon 0.9103199999999103
+Episode 5000 Epsilon 0.8703199999998703
+Episode 6000 Epsilon 0.8303199999998303
+Episode 7000 Epsilon 0.7903199999997903
+Episode 8000 Epsilon 0.7503199999997503
+Episode 9000 Epsilon 0.7103199999997103
+Episode 10000 Epsilon 0.6703199999996703
+Episode 11000 Epsilon 0.6303199999996303
+Episode 12000 Epsilon 0.5903199999995903
+Episode 13000 Epsilon 0.5503199999995503
+Episode 14000 Epsilon 0.5103199999995103
+Episode 15000 Epsilon 0.4703199999995115
+Best rewards so far: -171.0
+Best rewards so far: -162.0
+Episode 16000 Epsilon 0.430319999999527
+Episode 17000 Epsilon 0.39031999999954253
+Episode 18000 Epsilon 0.35031999999955804
+Best rewards so far: -158.0
+Episode 19000 Epsilon 0.31031999999957355
+Best rewards so far: -156.0
+Best rewards so far: -154.0
+Episode 20000 Epsilon 0.27031999999958906
+Best rewards so far: -152.0
+Best rewards so far: -140.0
+Best rewards so far: -132.0
+Best rewards so far: -130.0
+Best rewards so far: -128.0
+Best rewards so far: -107.0
+Best rewards so far: -103.0
+Episode 21000 Epsilon 0.23031999999959088
+Best rewards so far: -96.0
+Episode 22000 Epsilon 0.19031999999957863
+Best rewards so far: -93.0
+Episode 23000 Epsilon 0.15031999999956638
+Best rewards so far: -89.0
+Episode 24000 Epsilon 0.11031999999955924
