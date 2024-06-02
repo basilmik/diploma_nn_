@@ -1,0 +1,3 @@
+n_tests 10
+done % 20.0
+medium_reward -432.2

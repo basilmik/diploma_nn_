@@ -1,0 +1,20 @@
+data 2024-06-02_15-09-38
+tag 05_05_00
+MountainCar-v0
+0.9
+64
+50
+100000
+50000
+lr: 0.001 
+in:2 
+h:5x2 (--) 
+out:3 
+a1:ReLU 
+a2:Linear 
+
+Episode 1000 Epsilon 1
+Episode 2000 Epsilon 1
+Episode 3000 Epsilon 0.9898000000000011
+Episode 4000 Epsilon 0.7898000000000232
+Episode 5000 Epsilon 0.5898000000000452

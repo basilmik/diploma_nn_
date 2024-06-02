@@ -1,0 +1,29 @@
+data 2024-06-02_16-17-19
+tag 05_05_03
+MountainCar-v0
+0.9
+64
+50
+100000
+50000
+lr: 0.001 
+in:2 
+h:5x2 (--) 
+out:3 
+a1:ReLU 
+a2:Linear 
+
+Episode 1000 Epsilon 0.8480000000000167
+Episode 2000 Epsilon 0.6480000000000388
+Best rewards so far: -181.0
+Best rewards so far: -175.0
+Episode 3000 Epsilon 0.4480000000000608
+Best rewards so far: -174.0
+Best rewards so far: -146.0
+Best rewards so far: -131.0
+Best rewards so far: -130.0
+Episode 4000 Epsilon 0.24800000000008254
+Best rewards so far: -127.0
+Best rewards so far: -122.0
+Best rewards so far: -121.0
+Episode 5000 Epsilon 0.04800000000007732
