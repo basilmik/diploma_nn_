@@ -1,0 +1,69 @@
+noname
+4
+4
+4
+12
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+ReLU
+0.1
+12
+12
+nan nan nan nan nan nan nan nan nan nan nan nan
+nan nan nan nan nan nan nan nan nan nan nan nan
+nan nan nan nan nan nan nan nan nan nan nan nan
+nan nan nan nan nan nan nan nan nan nan nan nan
+nan nan nan nan nan nan nan nan nan nan nan nan
+nan nan nan nan nan nan nan nan nan nan nan nan
+nan nan nan nan nan nan nan nan nan nan nan nan
+nan nan nan nan nan nan nan nan nan nan nan nan
+nan nan nan nan nan nan nan nan nan nan nan nan
+nan nan nan nan nan nan nan nan nan nan nan nan
+nan nan nan nan nan nan nan nan nan nan nan nan
+nan nan nan nan nan nan nan nan nan nan nan nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+ReLU
+0.1
+12
+2
+nan nan nan nan nan nan nan nan nan nan nan nan
+nan nan nan nan nan nan nan nan nan nan nan nan
+nan
+nan
+Linear
+0.1
+
+ct 2024-06-03 12:04:22.183415

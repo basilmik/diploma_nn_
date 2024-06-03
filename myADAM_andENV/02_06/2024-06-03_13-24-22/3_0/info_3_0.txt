@@ -1,0 +1,299 @@
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
+data 2024-06-03_13-24-22
+tag 3_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.0001 
+shape:[2 3 3 3] 
+a1:ReLU 
+a2:Linear 
+
