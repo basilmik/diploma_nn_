@@ -1,0 +1,12 @@
+data 2024-06-05_11-22-28
+tag 2223_0
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.001 
+shape:[2 2 2 3] 
+a1:['', 'ReLU', 'ReLU', 'Linear']
+
