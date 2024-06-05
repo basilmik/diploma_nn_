@@ -1,0 +1,25 @@
+data 2024-06-03_17-27-25
+tag 00
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.001 
+in:2 
+h:3x2 (--) 
+out:3 
+a1:ReLU 
+a2:Linear 
+
+Episode 1000 Epsilon 0.9786249999999929
+Episode 2000 Epsilon 0.8536249999999511
+Episode 3000 Epsilon 0.7286249999999094
+Episode 4000 Epsilon 0.6036249999998676
+Episode 5000 Epsilon 0.47862499999983543
+Episode 6000 Epsilon 0.3536249999998492
+Best rewards so far: -192.0
+Best rewards so far: -187.0
+Episode 7000 Epsilon 0.22862499999986297
+Episode 8000 Epsilon 0.10362499999987435

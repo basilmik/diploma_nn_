@@ -1,0 +1,52 @@
+data 2024-06-03_18-48-51
+tag 12_12_14
+CartPole-v0
+0.9
+64
+20
+100000
+50000
+lr: 0.001 
+in:4 
+h:12x2 (--) 
+out:2 
+a1:ReLU 
+a2:Linear 
+
+Best rewards so far: 20.0
+Best rewards so far: 28.0
+Best rewards so far: 35.0
+Best rewards so far: 48.0
+Best rewards so far: 49.0
+Best rewards so far: 50.0
+Best rewards so far: 57.0
+Best rewards so far: 60.0
+Best rewards so far: 71.0
+Best rewards so far: 81.0
+Best rewards so far: 107.0
+Episode 1000 Epsilon 0.9501000000000055
+Best rewards so far: 111.0
+Episode 2000 Epsilon 0.900100000000011
+Episode 3000 Epsilon 0.8501000000000165
+Episode 4000 Epsilon 0.800100000000022
+Episode 5000 Epsilon 0.7501000000000275
+Episode 6000 Epsilon 0.700100000000033
+Best rewards so far: 137.0
+Episode 7000 Epsilon 0.6501000000000385
+Episode 8000 Epsilon 0.600100000000044
+Best rewards so far: 181.0
+Best rewards so far: 235.0
+Best rewards so far: 279.0
+Episode 9000 Epsilon 0.5501000000000495
+Best rewards so far: 300.0
+Episode 10000 Epsilon 0.5001000000000551
+Episode 11000 Epsilon 0.45010000000006056
+Episode 12000 Epsilon 0.40010000000006607
+Episode 13000 Epsilon 0.3501000000000716
+Episode 14000 Epsilon 0.3001000000000771
+Episode 15000 Epsilon 0.2501000000000826
+Episode 16000 Epsilon 0.2001000000000881
+Episode 17000 Epsilon 0.1501000000000936
+Episode 18000 Epsilon 0.10010000000009911
+Episode 19000 Epsilon 0.050100000000102896
+Episode 20000 Epsilon 0.01

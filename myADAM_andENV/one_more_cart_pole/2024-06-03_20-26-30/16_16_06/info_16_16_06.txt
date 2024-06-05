@@ -1,0 +1,21 @@
+data 2024-06-03_20-26-30
+tag 16_16_06
+CartPole-v0
+0.9
+64
+20
+100000
+50000
+lr: 0.1 
+in:4 
+h:16x2 (--) 
+out:2 
+a1:ReLU 
+a2:Linear 
+
+Best rewards so far: 54.0
+Best rewards so far: 72.0
+Best rewards so far: 82.0
+Best rewards so far: 87.0
+Episode 1000 Epsilon 0.500500000000055
+Episode 2000 Epsilon 0.01
