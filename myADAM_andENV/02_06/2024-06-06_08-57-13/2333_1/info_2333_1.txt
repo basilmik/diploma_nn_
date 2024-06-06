@@ -1,0 +1,19 @@
+data 2024-06-06_08-57-13
+tag 2333_1
+game_name MountainCar-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions50
+replay memory size 100000
+network sync rate 50000
+info lr: 0.001 
+shape:[2 3 3 3] 
+a1:['', 'ReLU', 'ReLU', 'Linear']
+
+Episode 1000 Epsilon 0.6810000000000351
+Best rewards so far: -197.0
+Best rewards so far: -184.0
+Best rewards so far: -183.0
+Best rewards so far: -177.0
+Best rewards so far: -173.0
+Episode 2000 Epsilon 0.18100000000005478
