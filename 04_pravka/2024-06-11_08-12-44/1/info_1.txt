@@ -1,0 +1,5 @@
+Best rewards so far: -812.0
+Episode 1000 Epsilon 0.9600000000000044
+Best rewards so far: -765.0
+Best rewards so far: -647.0
+Episode 2000 Epsilon 0.46000000000005503

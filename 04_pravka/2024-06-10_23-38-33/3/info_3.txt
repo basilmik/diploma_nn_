@@ -1,0 +1,2 @@
+Episode 1000 Epsilon 1
+Episode 2000 Epsilon 0.9765000000000026
