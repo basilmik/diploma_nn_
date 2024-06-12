@@ -1,0 +1,29 @@
+data 2024-06-12_01-47-57_4
+tag 4
+game_name CartPole-v0
+reward discount factor 0.9
+minibatch size 64
+num divisions1
+replay memory size 100000
+network sync rate 50000
+info lr: 0.2 
+[4, 4, 4, 2] 
+a:['', 'ReLU', 'ReLU', 'Linear']
+
+Best rewards so far: 31.0
+Best rewards so far: 39.0
+Best rewards so far: 46.0
+Best rewards so far: 59.0
+Best rewards so far: 60.0
+Best rewards so far: 62.0
+Best rewards so far: 104.0
+Episode 1000 Epsilon 0.900200000000011
+Episode 2000 Epsilon 0.800200000000022
+Episode 3000 Epsilon 0.700200000000033
+Episode 4000 Epsilon 0.600200000000044
+Episode 5000 Epsilon 0.500200000000055
+Episode 6000 Epsilon 0.40020000000006606
+Episode 7000 Epsilon 0.30020000000007707
+Episode 8000 Epsilon 0.20020000000008809
+Episode 9000 Epsilon 0.10020000000009566
+Episode 10000 Epsilon 0.01
