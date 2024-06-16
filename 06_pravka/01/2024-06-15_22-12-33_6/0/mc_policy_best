@@ -1,0 +1,39 @@
+noname
+4
+4
+4
+5
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan nan nan nan
+nan
+nan
+nan
+nan
+nan
+ReLU
+0.1
+5
+4
+nan nan nan nan nan
+nan nan nan nan nan
+nan nan nan nan nan
+nan nan nan nan nan
+nan
+nan
+nan
+nan
+ReLU
+0.1
+4
+2
+nan nan nan nan
+nan nan nan nan
+nan
+nan
+Linear
+0.1
+
+ct 2024-06-15 22:12:34.499035
